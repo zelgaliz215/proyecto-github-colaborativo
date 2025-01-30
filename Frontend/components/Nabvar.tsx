@@ -1,0 +1,1 @@
+console.log("Hola quiero ser un componente de React");
