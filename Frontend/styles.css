@@ -4,4 +4,9 @@
     --color-terciario: #343a40;
     --color-cuaternario: #f8f9fa;
     --color-quintario: #ffffff;
+
+    --font-family: 'Roboto', sans-serif;
+    --font-size: 16px;
+    --font-weight: 400;
+    --line-height: 1.5;
 }
